@@ -17,3 +17,10 @@ Drops:
         Item: STICK
         Amount: 3
         Chance: 3.0
+  ZOMBIE:
+    Enable: false
+    Items:
+      '1':
+        Item: STONE
+        Amount: 1
+        Chance: 5.0
