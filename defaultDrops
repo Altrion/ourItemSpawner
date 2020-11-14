@@ -1,0 +1,16 @@
+Drops:
+  PIG:
+    Enable: true
+    Items:
+      'pig2':
+        Item: EMERALD
+        Amount: 2
+        Chance: 16.0
+      '1':
+        Item: DIAMOND
+        Amount: 1
+        Chance: 5.0
+      '2':
+        Item: STICK
+        Amount: 3
+        Chance: 3.0
