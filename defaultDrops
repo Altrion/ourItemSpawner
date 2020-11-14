@@ -24,3 +24,54 @@ Drops:
         Item: GOLD_INGOT
         Amount: 1
         Chance: 5.0
+  CAT:
+    Enable: true
+    Items:
+      '1':
+        Item: STRING
+        Amount: 1
+        Chance: 16
+      '2':
+        Item: STRING
+        Amount: 2
+        Chance: 4
+  MOOSHROOM:
+    Enable: true
+    Items:
+      '1':
+        Item: BEEF
+        Amount: 1
+        Chance: 16
+      '2':
+        Item: BEEF
+        Amount: 2
+        Chance: 12
+      '3':
+        Item: BEEF
+        Amount: 3
+        Chance: 3 
+      '4':
+        Item: LEATHER
+        Amount: 1
+        Chance: 12  
+      '5':
+        Item: LEATHER
+        Amount: 2
+        Chance: 6
+  CHICKEN:
+    Enable: true
+    Items:
+      '1':
+        Item: FEATHER
+        Amount: 1
+        Chance: 16
+      '2':
+        Item: FEATHER
+        Amount: 2
+        Chance: 12
+      '3':
+        Item: CHICKEN
+        Amount: 1
+        Chance: 14
+
+      
