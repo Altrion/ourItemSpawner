@@ -1,3 +1,5 @@
 Versions:
-  'MC1.15.2':
+  '1.15.2':
+    WebLocation: 'https://raw.githubusercontent.com/Altrion/ourItemSpawner/main/defaultDrops'
+  latest:
     WebLocation: 'https://raw.githubusercontent.com/Altrion/ourItemSpawner/main/defaultDrops'
