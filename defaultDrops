@@ -89,7 +89,7 @@ Drops:
     Enable: true
     Items:
       '1':
-        Item: WOOL
+        Item: WHITE_WOOL
         Amount: 1
         Chance: 20.0
       '2':
