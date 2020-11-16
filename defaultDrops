@@ -268,7 +268,7 @@ Drops:
         Item: ARROW
         Amount: 1
         Chance: 9.0
-      '3':
+      '4':
         Item: ARROW
         Amount: 2
         Chance: 5.0
