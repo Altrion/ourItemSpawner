@@ -215,7 +215,7 @@ Drops:
         Item: SLIME_BALL
         Amount: 2
         Chance: 7.0
-  ZOMBIE_PIGMAN:
+  PIGZOMBIE:
     Enable: true
     Items:
       '1':
