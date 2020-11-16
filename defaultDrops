@@ -24,7 +24,7 @@ Drops:
         Item: GOLD_INGOT
         Amount: 1
         Chance: 5.0
-  MOOSHROOM:
+  MUSHROOM_COW:
     Enable: true
     Items:
       '1':
@@ -215,7 +215,7 @@ Drops:
         Item: SLIME_BALL
         Amount: 2
         Chance: 7.0
-  PIGZOMBIE:
+  PIG_ZOMBIE:
     Enable: true
     Items:
       '1':
