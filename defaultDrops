@@ -6,6 +6,21 @@ Drops:
     Enable: true
     Items:
       '1':
+        Item: PORKCHOP
+        Amount: 1
+        Chance: 16.0
+      '2':
+        Item: PORKCHOP
+        Amount: 2
+        Chance: 6.0
+      '3':
+        Item: PORKCHOP
+        Amount: 3
+        Chance: 3.0
+  ZOMBIE:
+    Enable: true
+    Items:
+      '1':
         Item: ROTTEN_FLESH
         Amount: 1
         Chance: 14.0
@@ -17,21 +32,6 @@ Drops:
         Item: ROTTEN_FLESH
         Amount: 2
         Chance: 6.0
-  ZOMBIE:
-    Enable: true
-    Items:
-      'pig2':
-        Item: PORKCHOP
-        Amount: 1
-        Chance: 16.0
-      '1':
-        Item: PORKCHOP
-        Amount: 2
-        Chance: 6.0
-      '2':
-        Item: PORKCHOP
-        Amount: 3
-        Chance: 3.0
   MUSHROOM_COW:
     Enable: true
     Items:
