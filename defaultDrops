@@ -5,6 +5,21 @@ Drops:
   PIG:
     Enable: true
     Items:
+      '1':
+        Item: ROTTEN_FLESH
+        Amount: 1
+        Chance: 14.0
+      '2':
+        Item: IRON_INGOT
+        Amount: 1
+        Chance: 2.0
+      '3':
+        Item: ROTTEN_FLESH
+        Amount: 2
+        Chance: 6.0
+  ZOMBIE:
+    Enable: true
+    Items:
       'pig2':
         Item: PORKCHOP
         Amount: 1
@@ -17,13 +32,6 @@ Drops:
         Item: PORKCHOP
         Amount: 3
         Chance: 3.0
-  ZOMBIE:
-    Enable: true
-    Items:
-      '1':
-        Item: GOLD_INGOT
-        Amount: 1
-        Chance: 5.0
   MUSHROOM_COW:
     Enable: true
     Items:
