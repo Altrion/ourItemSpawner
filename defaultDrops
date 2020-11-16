@@ -6,15 +6,15 @@ Drops:
     Enable: true
     Items:
       'pig2':
-        Item: EMERALD
-        Amount: 2
+        Item: PORKCHOP
+        Amount: 1
         Chance: 16.0
       '1':
-        Item: DIAMOND
-        Amount: 1
-        Chance: 5.0
+        Item: PORKCHOP
+        Amount: 2
+        Chance: 6.0
       '2':
-        Item: STICK
+        Item: PORKCHOP
         Amount: 3
         Chance: 3.0
   ZOMBIE:
@@ -24,18 +24,30 @@ Drops:
         Item: GOLD_INGOT
         Amount: 1
         Chance: 5.0
-  CAT:
+  MOOSHROOM:
     Enable: true
     Items:
       '1':
-        Item: STRING
+        Item: BEEF
         Amount: 1
         Chance: 16
       '2':
-        Item: STRING
+        Item: BEEF
         Amount: 2
-        Chance: 4
-  MOOSHROOM:
+        Chance: 12
+      '3':
+        Item: BEEF
+        Amount: 3
+        Chance: 3 
+      '4':
+        Item: LEATHER
+        Amount: 1
+        Chance: 12  
+      '5':
+        Item: LEATHER
+        Amount: 2
+        Chance: 6
+  COW:
     Enable: true
     Items:
       '1':
@@ -73,5 +85,183 @@ Drops:
         Item: CHICKEN
         Amount: 1
         Chance: 14
-
-      
+  SHEEP:
+    Enable: true
+    Items:
+      '1':
+        Item: WOOL
+        Amount: 1
+        Chance: 20.0
+      '2':
+        Item: MUTTON
+        Amount: 1
+        Chance: 25.0
+      '3':
+        Item: MUTTON
+        Amount: 2
+        Chance: 5.0
+  SQUID:
+    Enable: true
+    Items:
+      '1':
+        Item: INK_SAC
+        Amount: 1
+        Chance: 20.0
+      '2':
+        Item: INK_SAC
+        Amount: 2
+        Chance: 12.0
+      '3':
+        Item: INK_SAC
+        Amount: 3
+        Chance: 5.0
+  IRON_GOLEM:
+    Enable: true
+    Items:
+      '1':
+        Item: IRON_INGOT
+        Amount: 3
+        Chance: 20.0
+      '2':
+        Item: IRON_INGOT
+        Amount: 4
+        Chance: 7.0
+      '3':
+        Item: IRON_INGOT
+        Amount: 5
+        Chance: 5.0
+      '4':
+        Item: POPPY
+        Amount: 1
+        Chance: 5.0
+  BLAZE:
+    Enable: true
+    Items:
+      '1':
+        Item: BLAZE_ROD
+        Amount: 1
+        Chance: 100.0
+  SPIDER:
+    Enable: true
+    Items:
+      '1':
+        Item: STRING
+        Amount: 1
+        Chance: 20.0
+      '2':
+        Item: STRING
+        Amount: 2
+        Chance: 10.0
+      '3':
+        Item: SPIDER_EYE
+        Amount: 1
+        Chance: 5.0
+  CAVE_SPIDER:
+    Enable: true
+    Items:
+      '1':
+        Item: STRING
+        Amount: 1
+        Chance: 20.0
+      '2':
+        Item: STRING
+        Amount: 2
+        Chance: 10.0
+      '3':
+        Item: SPIDER_EYE
+        Amount: 1
+        Chance: 5.0
+  CREEPER:
+    Enable: true
+    Items:
+      '1':
+        Item: GUNPOWDER
+        Amount: 1
+        Chance: 30.0
+      '2':
+        Item: GUNPOWDER
+        Amount: 2
+        Chance: 5.0
+  ENDERMAN:
+    Enable: true
+    Items:
+      '1':
+        Item: ENDER_PEARL
+        Amount: 1
+        Chance: 10.0
+  GUARDIAN:
+    Enable: true
+    Items:
+      '1':
+        Item: PRISMARINE_SHARD
+        Amount: 1
+        Chance: 20.0
+      '2':
+        Item: PRISMARINE_SHARD
+        Amount: 2
+        Chance: 10.0
+      '3':
+        Item: PRISMARINE_CRYSTALS
+        Amount: 1
+        Chance: 7.0
+  SLIME:
+    Enable: true
+    Items:
+      '1':
+        Item: SLIME_BALL
+        Amount: 1
+        Chance: 20.0
+      '2':
+        Item: SLIME_BALL
+        Amount: 2
+        Chance: 7.0
+  ZOMBIE_PIGMAN:
+    Enable: true
+    Items:
+      '1':
+        Item: ROTTEN_FLESH
+        Amount: 1
+        Chance: 7.0
+      '2':
+        Item: GOLD_NUGGET
+        Amount: 1
+        Chance: 15.0
+      '3':
+        Item: GOLD_INGOT
+        Amount: 1
+        Chance: 1.0
+  WITHER_SKELETON:
+    Enable: true
+    Items:
+      '1':
+        Item: BONE
+        Amount: 2
+        Chance: 7.0
+      '2':
+        Item: BONE
+        Amount: 1
+        Chance: 15.0
+      '3':
+        Item: COAL
+        Amount: 1
+        Chance: 5.0
+  SKELETON:
+    Enable: true
+    Items:
+      '1':
+        Item: BONE
+        Amount: 2
+        Chance: 6.0
+      '2':
+        Item: BONE
+        Amount: 1
+        Chance: 10.0
+      '3':
+        Item: ARROW
+        Amount: 1
+        Chance: 9.0
+      '3':
+        Item: ARROW
+        Amount: 2
+        Chance: 5.0
+        
